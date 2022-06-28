@@ -3,10 +3,11 @@ calculation game in C++
 ## Getting Started
 ### Dependencies
 #### Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
+ex. Windows 10 or mac or linx
 
 ### Installing
 #### How/where to download your program
+#### IDE [replit ex.] (@replit, visualstudio)
 #### Any modifications needed to be made to files/folders
 
 ### Executing program
