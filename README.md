@@ -7,7 +7,7 @@ ex. Windows 10 or mac or linx
 
 ### Installing
 #### How/where to download your program
-#### IDE [replit ex.] (@replit, visualstudio)
+#### IDE [replit ex.] (https://replit.com/@Yoelitiros?path=folder/05_12_2022)
 #### Any modifications needed to be made to files/folders
 
 ### Executing program
